@@ -1,0 +1,15 @@
+@font-face {
+    font-family: 'BebasNeue';
+    font-style: normal;
+    font-weight: normal;
+    line-height: normal;
+    src: local('BebasNeue'), url('../assets/fonts/BebasNeue-Regular.otf') format('otf');
+    }
+    
+
+    @font-face {
+    font-family: 'BebasNeue Bold';
+    font-style: normal;
+    font-weight: normal;
+    src: local('BebasNeue bold'), url('../assets/fonts/BebasNeue-Bold.otf') format('otf');
+    }
