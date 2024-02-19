@@ -25,7 +25,10 @@
       "@/*": ["*"],
       "@utils/*": ["utils/*"],
       "@hooks/*": ["hooks/*"],
-      "@mocks/*": ["mocks/*"]
+      "@mocks/*": ["mocks/*"],
+      "@components/*": ["components/*"],
+      "@interfaces/*": ["interfaces/*"],
+      "@public/*": ["public/*"]
     }
   },
   "include": ["src","src/**/*.ts", "vite.config.ts"],
